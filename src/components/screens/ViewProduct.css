@@ -1,0 +1,29 @@
+.head{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+    text-decoration: none !important;
+    text-transform:uppercase;
+    margin-top: 20px;
+}
+h2{
+    text-align: left !important;
+    font-size: 28px;
+    font-weight: 600;
+    text-transform: capitalize;
+    margin-left: 60px;
+}
+.card{
+   margin-left: 80px;
+}
+.card_body{
+    width:20% ;
+}
+h5{
+    font-size: 18px;
+    font-weight: 600;
+}
+p{
+    font-size: 18px;
+    font-weight: 600;
+}
